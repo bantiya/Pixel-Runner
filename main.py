@@ -27,6 +27,7 @@ text_surface = test_font.render("My Game", False, "Black").convert_alpha()
 
 snail_surface = pygame.image.load("graphics/snail/snail1.png").convert_alpha()
 snail_x_pos = 800
+print("Hola")
 
 while True:
     for event in pygame.event.get():
