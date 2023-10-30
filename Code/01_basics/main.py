@@ -13,7 +13,7 @@ pygame.display.set_caption("Runner")
 # Used to maintain the framerate of the game
 clock = pygame.time.Clock()
 
-test_font = pygame.font.Font("font/Pixeltype.ttf", 50)
+test_font = pygame.font.Font("../../font/Pixeltype.ttf", 50)
 
 # added convert alpha so that the image is converted into something that pygame can easily work with
 """
@@ -21,11 +21,11 @@ pygame has 2 surface one static and other regular so we make regular surfaces li
 which are then loaded on the main screen
 """
 #  ******************* Adding surfaces *******************
-sky_surface = pygame.image.load("graphics/Sky.png").convert_alpha()
-ground_surface = pygame.image.load("graphics/ground.png").convert_alpha()
+sky_surface = pygame.image.load("../../graphics/Sky.png").convert_alpha()
+ground_surface = pygame.image.load("../../graphics/ground.png").convert_alpha()
 text_surface = test_font.render("My Game", False, "Black").convert_alpha()
 
-snail_surface = pygame.image.load("graphics/snail/snail1.png").convert_alpha()
+snail_surface = pygame.image.load("../../graphics/snail/snail1.png").convert_alpha()
 snail_x_pos = 800
 print("Hola")
 
