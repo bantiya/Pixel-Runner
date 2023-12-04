@@ -1,9 +1,9 @@
 <h1>Pixel Runner Game</h1>
 
-    <h2>About</h2>
-    <p>A fun and exciting endless runner game built with Python and the Pygame library.</p>
+<h2>About</h2>
+<p>A fun and exciting endless runner game built with Python and the Pygame library.</p>
 
-    <h2>Features</h2>
+<h2>Features</h2>
     <ul>
         <li>Fast-paced and challenging gameplay</li>
         <li>Randomly generated obstacles for endless fun</li>
@@ -12,7 +12,7 @@
         <li>Simple controls for an intuitive gaming experience</li>
     </ul>
 
-    <h2>Requirements</h2>
+<h2>Requirements</h2>
     <ul>
         <li>Python 3.x</li>
         <li>Pygame library</li>
