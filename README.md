@@ -40,11 +40,10 @@
 
 <h2>Screenshots</h2>
     <img src="graphics/Screenshot 2023-12-04 at 3.56.20 PM.png" alt="Gameplay Screenshot">
-    <video controls>
-      <source src="graphics/video.mp4" type="video/mp4">
-      <source src="graphics/video.mp4" type="video/ogg">
-      Your browser does not support the video tag.
-    </video>
+
+![1e160157-81a3-475b-8e27-5145681c0f53](https://github.com/bantiya/Pygame/assets/103890469/1adea327-f959-4b75-954d-ed84f6a745c3)
+
+
     
 
 <h2>Contributing</h2>
