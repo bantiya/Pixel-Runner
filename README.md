@@ -22,12 +22,14 @@
     <ol>
         <li>Make sure you have Python installed. If not, download and install it from <a href="https://www.python.org/">python.org</a>.</li>
         <li>Install the Pygame library using the following command:<br><code>pip install pygame</code></li>
-        <li>Clone the Pixel Runner repository:<br><code>git clone https://github.com/bantiya/Pygame.git</code><br><code>cd pixel-runner</code></li>
+        <li>Clone the Pixel Runner repository:<br><code>git clone https://github.com/bantiya/Pygame.git</code><br><code>cd Pygame</code></li>
+        <li><code>cd Code</code></li>
+        <li><code>cd 11_Animating_the_player_snail_and_fly</code></li>
     </ol>
 
 <h2>Usage</h2>
-    <p>Run the game using the following command:<br><code>python pixel_runner.py</code></p>
-    <p>Navigate through the obstacles using the arrow keys and try to survive for as long as possible. Collect points to increase your score and challenge your friends to beat it!</p>
+    <p>Run the game by running the python file. <code>python main.py</code></p>
+    <p>Jump through the obstacles using the spacebar or left mouse button and try to survive for as long as possible. Run as far as you can to increase your score and challenge your friends to beat it!</p>
 
 <h2>Controls</h2>
     <ul>
