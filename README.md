@@ -22,7 +22,7 @@
     <ol>
         <li>Make sure you have Python installed. If not, download and install it from <a href="https://www.python.org/">python.org</a>.</li>
         <li>Install the Pygame library using the following command:<br><code>pip install pygame</code></li>
-        <li>Clone the Pixel Runner repository:<br><code>git clone https://github.com/your-username/pixel-runner.git</code><br><code>cd pixel-runner</code></li>
+        <li>Clone the Pixel Runner repository:<br><code>git clone https://github.com/bantiya/Pygame.git</code><br><code>cd pixel-runner</code></li>
     </ol>
 
 <h2>Usage</h2>
