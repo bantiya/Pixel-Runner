@@ -39,7 +39,7 @@
     </ul>
 
 <h2>Screenshots</h2>
-    <img src="screenshots/gameplay.png" alt="Gameplay Screenshot">
+    <img src="graphics/Screenshot 2023-12-04 at 3.56.20 PM.png" alt="Gameplay Screenshot">
     
 
 <h2>Contributing</h2>
