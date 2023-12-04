@@ -44,6 +44,4 @@
 
 <h2>Contributing</h2>
     <p>Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.</p>
-
-<h2>License</h2>
-    <p>This project is licensed under the <a href="LICENSE">MIT License</a>. Feel free to use, modify, and distribute the code.</p>
+    <p>Feel free to use, modify, and distribute the code.</p>
