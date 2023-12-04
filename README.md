@@ -31,8 +31,8 @@
 
 <h2>Controls</h2>
     <ul>
-        <li><strong>Left Arrow or A:</strong> Move left</li>
-        <li><strong>Right Arrow or D:</strong> Move right</li>
+        <li><strong>Spacebar:</strong> Restart</li>
+        <li><strong>Left Mouse Button:</strong> Jump</li>
         <li><strong>Spacebar:</strong> Jump</li>
     </ul>
 
