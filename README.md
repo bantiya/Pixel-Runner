@@ -41,8 +41,8 @@
 <h2>Screenshots</h2>
     <img src="graphics/Screenshot 2023-12-04 at 3.56.20 PM.png" alt="Gameplay Screenshot">
     <video controls>
-      <source src="graphics/Screen Recording 2023-12-04 at 4.01.24 PM.mov" type="video/mp4">
-      <source src="graphics/Screen Recording 2023-12-04 at 4.01.24 PM.mov" type="video/ogg">
+      <source src="graphics/video.mp4" type="video/mp4">
+      <source src="graphics/video.mp4" type="video/ogg">
       Your browser does not support the video tag.
     </video>
     
